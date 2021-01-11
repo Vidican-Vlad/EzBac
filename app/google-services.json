@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156255672586",
+    "firebase_url": "https://ezbac-2f77a.firebaseio.com",
+    "project_id": "ezbac-2f77a",
+    "storage_bucket": "ezbac-2f77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156255672586:android:f19f05807b43e9ea0a42f3",
+        "android_client_info": {
+          "package_name": "com.example.ezbac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156255672586-6nt01bv8ajhufs736n73hbvljpkgi1l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPITvzk9B1hOVr1czq0Xw5HhLiWHQuguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156255672586-6nt01bv8ajhufs736n73hbvljpkgi1l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
